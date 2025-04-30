@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Invertebrate Zoology Presentation on Acanthocephalan Species',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This project was a dissection of a study on the effects of different pharmaceautical treatment of parasitic acanthocephalans in squirrel monkeys',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/lgarcia100/lgarcia100.github.io/raw/main/Screenshot%202025-04-30%20090735.png',
+          link: 'https://github.com/lgarcia100/lgarcia100.github.io/raw/main/Acanthocephalan%20Slides%20Invertebrate%20Zoology%20.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Organic Chemistry Final Presentation on Dipeptide Identification based on Lab Isolation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Demonstration of proficiency in interpreting lab results to determine the sturcture of a specific unknown given',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/lgarcia100/lgarcia100.github.io/raw/main/Screenshot%202025-04-30%20091011.png',
+          link: 'https://github.com/lgarcia100/lgarcia100.github.io/raw/main/Dipeptide%20Lab%20Report%20-%20Luis%20Garcia%2C%20Priscilla%20Garcia.pdf',
         },
       ],
     },
