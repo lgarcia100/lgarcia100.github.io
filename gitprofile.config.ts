@@ -125,7 +125,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'Adrianna Gonzalez, Sofia Amaral, Luis Garcia, Samantha Prince, Komal Takhar',
-      link: 'https://example.com',
+      link: 'https://github.com/lgarcia100/lgarcia100.github.io/raw/main/MRA%20Paper%20Rough%20Draft%20.pdf',
       description:
         'This is a manuscript in submission.',
     },
